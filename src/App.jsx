@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.css';
-import 'anted/dist/reset.css';
+import 'antd/dist/reset.css';
 import './App.css';
 import Home from './pages/Hpme'
 
